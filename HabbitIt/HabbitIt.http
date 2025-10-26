@@ -1,0 +1,6 @@
+@HabbitIt_HostAddress = http://localhost:5215
+
+GET {{HabbitIt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

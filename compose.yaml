@@ -1,0 +1,7 @@
+﻿services:
+  habbitit:
+    image: habbitit
+    build:
+      context: .
+      dockerfile: HabbitIt/Dockerfile
+

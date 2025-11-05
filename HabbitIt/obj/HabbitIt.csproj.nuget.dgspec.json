@@ -73,6 +73,10 @@
               "target": "Package",
               "version": "[8.0.11, )"
             },
+            "Npm": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

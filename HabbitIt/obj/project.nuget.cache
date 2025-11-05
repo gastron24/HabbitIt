@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PNzkQ5b5pgg=",
+  "dgSpecHash": "8O2aP++Uf28=",
   "success": true,
   "projectFilePath": "C:\\Users\\pizda\\RiderProjects\\HabbitIt\\HabbitIt\\HabbitIt.csproj",
   "expectedPackageFiles": [
@@ -39,8 +39,11 @@
     "C:\\Users\\pizda\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
     "C:\\Users\\pizda\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\pizda\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\pizda\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\pizda\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
     "C:\\Users\\pizda\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512",
     "C:\\Users\\pizda\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.11\\npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
+    "C:\\Users\\pizda\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512",
     "C:\\Users\\pizda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\pizda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\pizda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
